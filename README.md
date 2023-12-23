@@ -1,12 +1,9 @@
 # EX-06: Gaussian Elimination
-
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
-
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
-
 ## Algorithm
 1. Get the size of the system (n).
 2. Initialize matrices for the augmented system and the solution.
@@ -14,11 +11,6 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. Perform Gaussian Elimination to convert the matrix to upper triangular form.
 5. Perform Back Substitution to find the solution vector.
 6. Output the results.
-
-<br>
-<br>
-<br>
-
 ## Program:
 ```
 '''
