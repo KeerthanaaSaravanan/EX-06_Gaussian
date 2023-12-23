@@ -1,4 +1,4 @@
-# Gaussian Elimination
+# EX-06: Gaussian Elimination
 
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
@@ -45,8 +45,7 @@ for i in range(n):
 ```
 
 ## Output:
-
-
+![Screenshot 2023-12-23 144732](https://github.com/KeerthanaaSaravanan/EX-06_Gaussian/assets/145742596/d6fa3a57-7a9a-4dd0-bf5c-298a72280d29)
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
